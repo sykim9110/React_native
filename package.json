@@ -14,7 +14,8 @@
     "react-native-awesome-button": "^1.6.0",
     "react-native-button": "^1.7.1",
     "react-native-facebook-login": "^1.4.0",
-    "react-native-firebase-auth-android": "0.0.5"
+    "react-native-firebase-auth-android": "0.0.5",
+    "react-native-shake-event": "git+https://github.com/z-dev/react-native-shake-event-ios.git#android"
   },
   "jest": {
     "preset": "jest-react-native"
