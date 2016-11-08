@@ -7,5 +7,6 @@ import React, { Component } from 'react';
 import { AppRegistry } from 'react-native';
 
 import Signin from './src/login/Signin';
+import testShake from './src/login/testShake';
 
-AppRegistry.registerComponent('ShakeProject', () => Signin);
+AppRegistry.registerComponent('ShakeProject', () => testShake);
